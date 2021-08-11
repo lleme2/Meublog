@@ -1,0 +1,82 @@
+.links{
+    margin-left: 1390px;
+    box-shadow:inset 0px -4px 0px -15px #040125;
+	background-color:#040125;
+	border-radius:42px;
+	border:9px solid #241d13;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:20px 27px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #040125;
+}
+
+.links:active {
+	position:relative;
+	top:1px;
+}
+.texto1 {
+    font-family: Arial, Helvetica, sans-serif, bold;
+    font-size: 20px;
+    text-decoration-color: #C3E0E5;
+    color: #C3E0E5;
+    margin-left: 10px;
+}
+.texto2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-decoration-color: #C3E0E5;
+    color: #C3E0E5;
+}
+#center div{
+    margin-left: 700px;
+} 
+#margem{
+    margin-left: 700px;
+}
+body{
+    background-color: #274472;
+}
+h1{
+    padding: 6px;
+    background-size: 50%;
+    background-size: 3em;
+    background-size: 12px;
+    background-size: auto;
+    display:inline-block;
+    margin: 0 auto;
+    background-color: #41729F;
+}
+.meme {
+    width: 300px;
+    height: 500px;
+    border:5px solid #5885AF;
+}
+.myButton {
+	box-shadow:inset 0px 34px 0px -15px #040125;
+	background:linear-gradient(to bottom, #040125 5%, #040125 100%);
+	background-color:#040125;
+	border-radius:23px;
+	border:5px solid #5885AF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Impact;
+	font-size:18px;
+	font-weight:bold;
+	padding:6px 11px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #040125;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #040125 5%, #040125 100%);
+	background-color:#C3E0E5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
